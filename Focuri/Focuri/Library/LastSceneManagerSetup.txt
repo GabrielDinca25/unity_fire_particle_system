@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/4_Fire/Scene/4_Fire.unity
+  isLoaded: 1
+  isActive: 1
